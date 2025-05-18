@@ -8,9 +8,6 @@ A simple car driving game built using HTML, CSS, and JavaScript. The objective o
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
