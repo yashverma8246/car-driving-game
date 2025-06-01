@@ -23,13 +23,13 @@ body {
     left: 50%;
     width: 50px;
     height: 100px;
-    background-image: url('/assets/player.png'); 
+    background-image: url('./assets/player.png'); 
     background-size: cover;
     transition: transform 0.2s; 
 }
 
 .car.crash {
-    background-image: url('/assets/damagedcar.png'); 
+    background-image: url('./assets/damagedcar.png'); 
 }
 
 @keyframes shake {
@@ -56,7 +56,7 @@ body {
     top: -100px; 
     width: 50px;
     height: 100px;
-    background-image: url('/assets/enemycar.png'); 
+    background-image: url('./assets/enemycar.png'); 
     background-size: cover;
 }
 
@@ -73,7 +73,7 @@ body {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url('/assets/road.png') repeat-y;
+    background: url('./assets/road.png') repeat-y;
     background-size: cover;
     animation: moveRoad 2s linear infinite; 
     will-change: background-position; 
