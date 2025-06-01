@@ -17,9 +17,8 @@ The project is a great demonstration of how to use JavaScript to build browser-b
 
 ## Demo
 
-You can try the game live here: [DEMO LINK](#)
+You can try the game live here: [DEMO LINK](#https://yashverma8246.github.io/car-driving-game/)
 
-> *(Optional: Include a screenshot or gif of gameplay)*
 
 ## Features
 
